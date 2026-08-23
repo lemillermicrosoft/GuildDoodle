@@ -2,8 +2,11 @@
 ## Title: GuildDoodle
 ## Notes: Shared pixel canvas for the guild — r/place, but small and cozy
 ## Author: GitHub Copilot c/o deehoc
-## Version: 0.1.0
+## Version: 0.2.0
 ## IconTexture: Interface\AddOns\GuildDoodle\Media\icon.png
 ## SavedVariables: GuildDoodleDB
 
-GuildDoodle.lua
+Core.lua
+Comm.lua
+UI.lua
+Slash.lua
