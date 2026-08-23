@@ -3,7 +3,7 @@
 ## PR
 
 - **Branch:** `feat/mvp-v0.2.0`
-- **PR URL:** _filled in below after `gh pr create`_
+- **PR URL:** https://github.com/lemillermicrosoft/GuildDoodle/pull/2
 - **Title:** `feat: GuildDoodle v0.2.0 MVP`
 - **Target:** `main`
 
