@@ -1,4 +1,6 @@
-﻿# Generated release artifacts and staging
+# Generated release artifacts and staging
 dist/
 .tmp/
 
+# Local agent scratch tools (Lua sanity checkers etc.)
+.agent/node_modules/
