@@ -1,8 +1,8 @@
-## Interface: 20506
+﻿## Interface: 20506
 ## Title: GuildDoodle
-## Notes: Shared pixel canvas for the guild — r/place, but small and cozy
+## Notes: Shared pixel canvas for the guild â€” r/place, but small and cozy
 ## Author: GitHub Copilot c/o deehoc
-## Version: 0.2.0
+## Version: 0.3.0
 ## IconTexture: Interface\AddOns\GuildDoodle\Media\icon.png
 ## SavedVariables: GuildDoodleDB
 
@@ -10,3 +10,4 @@ Core.lua
 Comm.lua
 UI.lua
 Slash.lua
+
